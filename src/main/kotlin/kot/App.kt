@@ -1,9 +1,15 @@
 package kot
 
-import kot.factory.Point
-import kotlin.math.PI
+import kot.prototype.Address
+import kot.prototype.Person
+import kot.prototype.copy
 
 fun main(args: Array<String>) {
-    val p = Point.newPolarPoint(2.0, PI/2)
-    println(p)
+    val p = Person(arrayOf("Francois", "Stiennon"), Address(10, "Lever Street"))
+
+    val Roxane = p.copy()
+
+    Roxane.names[1] = "d'Ales"
+
+    println("stop")
 }
