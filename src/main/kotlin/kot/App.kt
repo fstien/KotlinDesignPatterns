@@ -1,10 +1,9 @@
 package kot
 
-import kot.builder.HtmlBuilder
+import kot.factory.Point
+import kotlin.math.PI
 
 fun main(args: Array<String>) {
-    val b = HtmlBuilder("html")
-    b.addChild("p", "hello world")
-    .addChild("p", "dear francois")
-    println(b)
+    val p = Point.newPolarPoint(2.0, PI/2)
+    println(p)
 }
