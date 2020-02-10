@@ -1,15 +1,10 @@
 package kot
 
-import kot.prototype.Address
-import kot.prototype.Person
-import kot.prototype.copy
+import kot.singleton.Cities
 
 fun main(args: Array<String>) {
-    val p = Person(arrayOf("Francois", "Stiennon"), Address(10, "Lever Street"))
+    val cities = Cities.instance
+    val cities2 = Cities.instance
 
-    val Roxane = p.copy()
-
-    Roxane.names[1] = "d'Ales"
-
-    println("stop")
+    println(cities2 == cities2)
 }

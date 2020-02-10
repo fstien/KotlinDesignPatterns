@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99b3f32d-a53d-42fb-ab36-b79389407257" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/kot/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kot/App.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +55,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/kot" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="kot.AppKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kot.main" />
@@ -100,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581176450259</updated>
-      <workItem from="1581176455642" duration="11475000" />
+      <workItem from="1581176455642" duration="13412000" />
     </task>
     <servers />
   </component>
@@ -112,38 +115,38 @@
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
     <state x="1436" y="422" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1350@0.23.2560.1350" timestamp="1581279108197" />
-    <state width="2025" height="474" key="GridCell.Tab.0.bottom" timestamp="1581287978954">
+    <state width="2025" height="386" key="GridCell.Tab.0.bottom" timestamp="1581373646132">
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
-    <state width="2025" height="474" key="GridCell.Tab.0.bottom/0.23.2560.1350@0.23.2560.1350" timestamp="1581287978954" />
-    <state width="2025" height="474" key="GridCell.Tab.0.center" timestamp="1581287978953">
+    <state width="2025" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1350@0.23.2560.1350" timestamp="1581373646132" />
+    <state width="2025" height="386" key="GridCell.Tab.0.center" timestamp="1581373646131">
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
-    <state width="2025" height="474" key="GridCell.Tab.0.center/0.23.2560.1350@0.23.2560.1350" timestamp="1581287978953" />
-    <state width="2025" height="474" key="GridCell.Tab.0.left" timestamp="1581287978952">
+    <state width="2025" height="386" key="GridCell.Tab.0.center/0.23.2560.1350@0.23.2560.1350" timestamp="1581373646131" />
+    <state width="2025" height="386" key="GridCell.Tab.0.left" timestamp="1581373646131">
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
-    <state width="2025" height="474" key="GridCell.Tab.0.left/0.23.2560.1350@0.23.2560.1350" timestamp="1581287978952" />
-    <state width="2025" height="474" key="GridCell.Tab.0.right" timestamp="1581287978953">
+    <state width="2025" height="386" key="GridCell.Tab.0.left/0.23.2560.1350@0.23.2560.1350" timestamp="1581373646131" />
+    <state width="2025" height="386" key="GridCell.Tab.0.right" timestamp="1581373646132">
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
-    <state width="2025" height="474" key="GridCell.Tab.0.right/0.23.2560.1350@0.23.2560.1350" timestamp="1581287978953" />
-    <state width="2025" height="474" key="GridCell.Tab.1.bottom" timestamp="1581287979113">
+    <state width="2025" height="386" key="GridCell.Tab.0.right/0.23.2560.1350@0.23.2560.1350" timestamp="1581373646132" />
+    <state width="2025" height="474" key="GridCell.Tab.1.bottom" timestamp="1581373598591">
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
-    <state width="2025" height="474" key="GridCell.Tab.1.bottom/0.23.2560.1350@0.23.2560.1350" timestamp="1581287979113" />
-    <state width="2025" height="474" key="GridCell.Tab.1.center" timestamp="1581287979112">
+    <state width="2025" height="474" key="GridCell.Tab.1.bottom/0.23.2560.1350@0.23.2560.1350" timestamp="1581373598591" />
+    <state width="2025" height="474" key="GridCell.Tab.1.center" timestamp="1581373598590">
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
-    <state width="2025" height="474" key="GridCell.Tab.1.center/0.23.2560.1350@0.23.2560.1350" timestamp="1581287979112" />
-    <state width="2025" height="474" key="GridCell.Tab.1.left" timestamp="1581287979111">
+    <state width="2025" height="474" key="GridCell.Tab.1.center/0.23.2560.1350@0.23.2560.1350" timestamp="1581373598590" />
+    <state width="2025" height="474" key="GridCell.Tab.1.left" timestamp="1581373598590">
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
-    <state width="2025" height="474" key="GridCell.Tab.1.left/0.23.2560.1350@0.23.2560.1350" timestamp="1581287979111" />
-    <state width="2025" height="474" key="GridCell.Tab.1.right" timestamp="1581287979112">
+    <state width="2025" height="474" key="GridCell.Tab.1.left/0.23.2560.1350@0.23.2560.1350" timestamp="1581373598590" />
+    <state width="2025" height="474" key="GridCell.Tab.1.right" timestamp="1581373598591">
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
-    <state width="2025" height="474" key="GridCell.Tab.1.right/0.23.2560.1350@0.23.2560.1350" timestamp="1581287979112" />
+    <state width="2025" height="474" key="GridCell.Tab.1.right/0.23.2560.1350@0.23.2560.1350" timestamp="1581373598591" />
     <state x="1305" y="434" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1581287482694">
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
@@ -152,16 +155,5 @@
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
     <state x="1433" y="337" key="refactoring.ChangeSignatureDialog/0.23.2560.1350@0.23.2560.1350" timestamp="1581279023555" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/kot/App.kt</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
