@@ -14,5 +14,5 @@ class SquareToRectangleAdapter(square: Square): Rectangle {
 
     override fun Area(): Int {
         return this.width*this.height
-    }
+    } 
 }
