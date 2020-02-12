@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="99b3f32d-a53d-42fb-ab36-b79389407257" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kot/adapter/SquareToRectangleAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kot/adapter/SquareToRectangleAdapter.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/kot" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.kot.decorator.DragonKt">
     <configuration name="kot.AppKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kot.main" />
       <option name="VM_PARAMETERS" />
@@ -74,8 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="kot.decorator.DragonKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kot.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kot.decorator.DragonKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.kot.decorator.DragonKt" />
         <item itemvalue="Kotlin.kot.AppKt" />
       </list>
     </recent_temporary>
@@ -102,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581176450259</updated>
-      <workItem from="1581176455642" duration="14967000" />
+      <workItem from="1581176455642" duration="16436000" />
     </task>
     <servers />
   </component>
@@ -114,26 +129,26 @@
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
     <state x="1436" y="422" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1350@0.23.2560.1350" timestamp="1581279108197" />
-    <state width="2025" height="386" key="GridCell.Tab.0.bottom" timestamp="1581539236299">
+    <state width="2025" height="386" key="GridCell.Tab.0.bottom" timestamp="1581549656847">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2025" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1350@0.23.2560.1350" timestamp="1581373646132" />
-    <state width="2025" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1581539236299" />
-    <state width="2025" height="386" key="GridCell.Tab.0.center" timestamp="1581539236298">
+    <state width="2025" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1581549656847" />
+    <state width="2025" height="386" key="GridCell.Tab.0.center" timestamp="1581549656846">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2025" height="386" key="GridCell.Tab.0.center/0.23.2560.1350@0.23.2560.1350" timestamp="1581373646131" />
-    <state width="2025" height="386" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1581539236298" />
-    <state width="2025" height="386" key="GridCell.Tab.0.left" timestamp="1581539236297">
+    <state width="2025" height="386" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1581549656846" />
+    <state width="2025" height="386" key="GridCell.Tab.0.left" timestamp="1581549656846">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2025" height="386" key="GridCell.Tab.0.left/0.23.2560.1350@0.23.2560.1350" timestamp="1581373646131" />
-    <state width="2025" height="386" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1581539236297" />
-    <state width="2025" height="386" key="GridCell.Tab.0.right" timestamp="1581539236298">
+    <state width="2025" height="386" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1581549656846" />
+    <state width="2025" height="386" key="GridCell.Tab.0.right" timestamp="1581549656847">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2025" height="386" key="GridCell.Tab.0.right/0.23.2560.1350@0.23.2560.1350" timestamp="1581373646132" />
-    <state width="2025" height="386" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1581539236298" />
+    <state width="2025" height="386" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1581549656847" />
     <state width="2025" height="474" key="GridCell.Tab.1.bottom" timestamp="1581373598591">
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
