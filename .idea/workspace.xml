@@ -60,7 +60,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/kot" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.kot.proxy.ResponsiblePersonKt">
+  <component name="RunManager" selected="Kotlin.kot.command.BankAccountKt">
     <configuration name="kot.AppKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kot.main" />
       <option name="VM_PARAMETERS" />
@@ -69,6 +69,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="kot.AppKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kot.command.BankAccountKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kot.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kot.command.BankAccountKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,6 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.kot.command.BankAccountKt" />
         <item itemvalue="Kotlin.kot.proxy.ResponsiblePersonKt" />
         <item itemvalue="Kotlin.kot.decorator.DragonKt" />
         <item itemvalue="Kotlin.kot.AppKt" />
@@ -130,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581176450259</updated>
-      <workItem from="1581176455642" duration="17886000" />
+      <workItem from="1581176455642" duration="19572000" />
     </task>
     <servers />
   </component>
@@ -142,28 +156,32 @@
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
     <state x="1436" y="422" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1350@0.23.2560.1350" timestamp="1581279108197" />
-    <state width="1638" height="257" key="GridCell.Tab.0.bottom" timestamp="1581628805535">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1454" height="257" key="GridCell.Tab.0.bottom" timestamp="1581634833801">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581628805535" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581628810924" />
+    <state width="1454" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581634833801" />
     <state width="2025" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1350@0.23.2560.1350" timestamp="1581373646132" />
     <state width="2025" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1581549666423" />
-    <state width="1638" height="257" key="GridCell.Tab.0.center" timestamp="1581628805534">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1454" height="257" key="GridCell.Tab.0.center" timestamp="1581634833800">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581628805534" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581628810922" />
+    <state width="1454" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581634833800" />
     <state width="2025" height="386" key="GridCell.Tab.0.center/0.23.2560.1350@0.23.2560.1350" timestamp="1581373646131" />
     <state width="2025" height="386" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1581549666422" />
-    <state width="1638" height="257" key="GridCell.Tab.0.left" timestamp="1581628805533">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1454" height="257" key="GridCell.Tab.0.left" timestamp="1581634833799">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581628805533" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581628810922" />
+    <state width="1454" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581634833799" />
     <state width="2025" height="386" key="GridCell.Tab.0.left/0.23.2560.1350@0.23.2560.1350" timestamp="1581373646131" />
     <state width="2025" height="386" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1581549666422" />
-    <state width="1638" height="257" key="GridCell.Tab.0.right" timestamp="1581628805535">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1454" height="257" key="GridCell.Tab.0.right" timestamp="1581634833800">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581628805535" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581628810923" />
+    <state width="1454" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581634833800" />
     <state width="2025" height="386" key="GridCell.Tab.0.right/0.23.2560.1350@0.23.2560.1350" timestamp="1581373646132" />
     <state width="2025" height="386" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1581549666423" />
     <state width="2025" height="474" key="GridCell.Tab.1.bottom" timestamp="1581373598591">
