@@ -1,5 +1,6 @@
 package kot.state
 
+
 class Lock(private val code: String) {
     private enum class states {
         LOCKED,
